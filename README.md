@@ -6,16 +6,16 @@
 
 ▶ 개발 환경    : Spring STS (JDK 1.8), MyBatis, Spring MVC, Tomcat 8.5
 
-▶ OS 및 DB     : Windows 10, Oracle DB
+▶ OS 및 DB    : Windows 10, Oracle DB
 
 ▶ 사용 언어    : JAVA, JSP, JavaScript, JQuery, Ajax, HTML5, CSS3, SQL
 
 ▶ 프로젝트 소개:
 
-MyBatis 프레임워크로 Ajax를 응용해 구성한 이미지 공유 웹사이트
+MyBatis 프레임워크로 구성된 이미지 공유 웹사이트
 
 ▶ 기능    : 
 
-1. 페이지 이동 없이 컨텐츠 사용 (Ajax 응용) 
+1. 페이지 이동 없이 콘텐츠 사용 (Ajax 응용) 
   
 2. 로그인, 비밀번호 찾기, 회원가입
